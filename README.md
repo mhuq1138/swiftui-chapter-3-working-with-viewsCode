@@ -2,7 +2,8 @@
 
 Support material for this repository:
 
-http://mazharulhuqblog.files.wordpress.com/2020/12/chapter-3-working-with-views.pdf
+http://mazharulhuqblog.files.wordpress.com/2021/01/chapter-3-working-with-views.pdf
+
 
 This repository has 7 projects:
 
