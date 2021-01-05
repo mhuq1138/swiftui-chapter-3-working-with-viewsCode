@@ -8,10 +8,16 @@ http://mazharulhuqblog.files.wordpress.com/2021/01/chapter-3-working-with-views.
 This repository has 7 projects:
 
 View Declaration
+
 View Configuration
+
 View Composability
+
 List and NavigationView
+
 State Binding and Data Flow
+
 Swift Features in SwiftUI
+
 Preventing Infinite Recursion
 
